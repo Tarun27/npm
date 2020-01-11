@@ -1,0 +1,19 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tarun27/npm.git"
+  },
+  "author": "tarun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tarun27/npm/issues"
+  },
+  "homepage": "https://github.com/Tarun27/npm#readme"
+}
